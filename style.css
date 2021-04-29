@@ -1,0 +1,65 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+h3{
+    text-align: center;
+    margin-top: 0%;
+} 
+figure{
+    align-items: center;
+}
+figure img{
+    align-self: center;
+    width: 80%;
+    margin-left: 11%;
+}
+figure figcaption{
+    text-align: center;
+    color: rgb(85, 5, 5);
+    margin-top: 10px;
+    font-size: 20px;
+}
+p.qoute{
+    color: rgb(238, 27, 12);
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+div.name{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+}
+ul li{
+    list-style: none;
+    font-style: oblique;
+}
+ul.book li{
+    float: left;
+    padding-bottom: 20px;
+   }
+.img-a{
+    width: 50%;
+   
+}
+.img-b{
+    width: 50%;
+   
+}
+.img-c{
+    width: 33%;
+   
+}
+hr{
+    width: 10px;
+}
